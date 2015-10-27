@@ -1,0 +1,7 @@
+name 'kungfury'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures kungfury'
+long_description 'Installs/Configures kungfury'
+version '0.1.0'
